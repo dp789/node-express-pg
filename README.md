@@ -4,16 +4,18 @@
 
 ## Architecture
 
-.
-└── controllers
-└── db
-    └── migrations
-└── middlewares
-└── routes
-└── src/
-	├── drivers
-	│   └── models
-    ├── doas
+```
+    .
+    └── controllers
+    └── db
+        └── migrations
+    └── middlewares
+    └── routes
+    └── src/
+        ├── drivers
+        │   └── models
+        ├── doas
+```
 
 ## Pre-requisites
 - yarn
